@@ -62,6 +62,4 @@ These feature extractors, first extract low-level features (say edges, lines), t
 
 # Task
 
-<p align="center" width="100%">
-    <img width="30%" src="https://user-images.githubusercontent.com/76533398/177055867-53f8c56c-1849-40b0-986f-02107a87083d.jpeg">
-</p>
+[![](https://user-images.githubusercontent.com/76533398/180483239-643ab2d4-8060-45f8-8f42-ca9fb3a49388.jpg)](https://github.com/Robotics-Club-IIT-BHU/CV-Specialization-22/blob/master/Week-2/Subpart-2/task_for_cv_week_2.ipynb)
