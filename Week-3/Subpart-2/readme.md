@@ -39,4 +39,4 @@ Biggest advantages:
 <!-- <p align="center" width="100%">
     <img width="30%" src="https://user-images.githubusercontent.com/76533398/183144355-91424024-76b6-44af-96fa-d709b0a9afde.jpeg">
 </p> -->
-Download this [dataset](https://universe.roboflow.com/roboflow-gw7yv/self-driving-car/dataset/3/download/voc) (self driving car fixed-small dataset), and convert it to YOLO format using Roboflow. Then follow this [notebook](https://colab.research.google.com/github/roboflow-ai/yolov5-custom-training-tutorial/blob/main/yolov5-custom-training.ipynb) to train YOLOv5 on your dataset.
+Download this [dataset](https://universe.roboflow.com/roboflow-gw7yv/self-driving-car/dataset/3/download/voc) (self driving car fixed-small dataset in PASCAL VOC format), and convert it to YOLO format using Roboflow. Then follow this [notebook](https://colab.research.google.com/github/roboflow-ai/yolov5-custom-training-tutorial/blob/main/yolov5-custom-training.ipynb) to train YOLOv5 on your dataset.
