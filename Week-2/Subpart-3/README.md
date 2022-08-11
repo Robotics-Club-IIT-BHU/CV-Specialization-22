@@ -91,10 +91,10 @@ These models can be used as the basis for transfer learning in computer vision a
 For implementation refer to this <a href="https://www.youtube.com/watch?v=K0lWSB2QoIQ" target="_blank">tutorial</a>.
 
 For more knowledge <a href="https://machinelearningmastery.com/how-to-use-transfer-learning-when-developing-convolutional-neural-network-models/" target="_blank">reading</a>
-
+<!--
 # Task
 
 <p align="center" width="100%">
     <img width="33%" src="https://user-images.githubusercontent.com/76533398/177055837-1e81e11f-f955-4193-bad8-4da81ce9ba5b.jpg">
 </p>
-
+-->
